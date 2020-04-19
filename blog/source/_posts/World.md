@@ -1,6 +1,6 @@
 ---
-layout: hello
-title: World!
+layout: post
+title: Hello World!
 date: 2020-04-19 19:48:08
 tags:
 ---
